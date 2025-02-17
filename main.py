@@ -1,3 +1,3 @@
 # This program prints Hello, world!
 
-printf('Hello, world!')
+print('Hello, world!')
